@@ -32,6 +32,21 @@ At the end, it turned out that the model performed poor on both training and tes
 This makes me think about how to improve the model performance, and the different process that I have adopted.
 I belive there is a lot of work to be done and a lot of things to learn and try.
 
+
+V. Repository structure
+Data/plot: contains all plots generated from the jupyter notebook
+Data/ref: contains the link of a blog made by the instructor, as reference
+Data/survey_results_public: data set used for the project
+Data/survey_results_schema: file to understand the data
+.gitignore: file indicating to ignore the change of the file during each commit
+Readme: explain the project purpose and background, methodology, libraries used for the project
+satis_analysis: jupyter notebook for data exploration, modeling, plot generation
+
+VI. Librarie used for the project
+Pandas/Numpy/Matplotlib/Seaborn/ScikitLearn/
+
+
+
 N.B.
 There were more stuff tried in jupyter notebook then those were used in the blog.
 The modeling was of little usage in illustrating my discoveries, so it was not documented in the blog.
