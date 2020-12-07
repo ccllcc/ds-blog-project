@@ -45,6 +45,10 @@ satis_analysis: jupyter notebook for data exploration, modeling, plot generation
 VI. Librarie used for the project
 Pandas/Numpy/Matplotlib/Seaborn/ScikitLearn/
 
+VII.
+Post https address:
+https://medium.com/what-are-the-elements-affect-developers-job/what-are-the-elements-affect-a-developers-job-satisfaction-f8eebee65845
+
 
 
 N.B.
