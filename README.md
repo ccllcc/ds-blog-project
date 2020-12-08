@@ -44,18 +44,15 @@ I belive there is a lot of work to be done and a lot of things to learn and try.
 Pandas/Numpy/Matplotlib/Seaborn/ScikitLearn/
 
 ## VII. Blog link
-[What are the elements affect a developer's job satisfaction?]:
-https://medium.com/what-are-the-elements-affect-developers-job/what-are-the-elements-affect-a-developers-job-satisfaction-f8eebee65845
+[What are the elements affect a developer's job satisfaction?](https://medium.com/what-are-the-elements-affect-developers-job/what-are-the-elements-affect-a-developers-job-satisfaction-f8eebee65845)
 
 
 ## IIX. Github repository
-[ds-blog-project]:
-https://github.com/ccllcc/ds-blog-project
+[ds-blog-project](https://github.com/ccllcc/ds-blog-project)
 
 ## IX. Acknowledgement
 I have refer to the blog of the instructor as I have chosen the same data set for this blog project, his work inspired me a lot.
-[How do you become a developer]:
-https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711
+[How do you become a developer](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
 
 ### N.B.
 There were more stuff tried in jupyter notebook then those were used in the blog.<br>
