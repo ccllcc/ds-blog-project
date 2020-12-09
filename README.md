@@ -1,4 +1,4 @@
-# ds-blog-project
+# Data Science Nano Degree - blog project
 ## I. Project context
 The project is a part of Udacity Data Science Nano degree program achievement.<br>
 I have chosen the data set of StackOverFlow developer survey to conduct my data exploration and to draw insights.
@@ -7,14 +7,14 @@ I have chosen the data set of StackOverFlow developer survey to conduct my data 
 My main question is to explore what are the elements potentially linked to a developer's job satisfaction.<br>
 All the questions in the project (blog) are around the job satisfaction topic.<br>
 I have prepared 3 to 4 questions related to Job Satisfaction.<br>
-### Q1:
+#### Q1:
 How do certain personal interests, such as building things and problem solving, relate to job satisfaction?(Blog)<br>
 How job security and diversity affects / relates to job satisfaction?<br>
-### Q2:
+#### Q2:
 How company size and company type affects / relates to job satisfaction? (Blog)
-### Q3:
+#### Q3:
 How job satisfaction, career satisfaction, weekly hour, salary correlate to each other? (Blog)<br>
-### Q4:
+#### Q4:
 Do serious coder has a better job satisfaction or pay?<br>
 
 
@@ -58,4 +58,4 @@ I have refer to the blog of the instructor as I have chosen the same data set fo
 There were more stuff tried in jupyter notebook then those were used in the blog.<br>
 The modeling was of little usage in illustrating my discoveries, so it was not documented in the blog.<br>
 
-2020-12-08
+2020-12-09
